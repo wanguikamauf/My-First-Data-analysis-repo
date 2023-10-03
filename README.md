@@ -1,2 +1,29 @@
-# My-First-Data-analysis-repo
-PROJECT OBJECTIVES
+# My-First-Data-Analysis-Repo
+
+---
+#PROJECT OBJECTIVES
+
+
+
+---
+#DATA SOURCING
+
+
+---
+#DATA CLEANING AND TRANSFORMATION
+
+
+
+
+#FINDINGS
+
+
+
+
+
+#RECOMENDATIONS
+
+
+
+
+

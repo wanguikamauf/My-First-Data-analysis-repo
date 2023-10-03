@@ -1,7 +1,7 @@
-# My-First-Data-Analysis-Repo
+# PROJECT NAME: My-First-Data-Analysis-Repo
 
 ---
-#PROJECT OBJECTIVES
+#PROJECT OBJECTIVES: PROBLEM STATEMENT
 
 
 
@@ -15,12 +15,14 @@
 
 
 
+---
 #FINDINGS
 
 
 
 
 
+---
 #RECOMENDATIONS
 
 

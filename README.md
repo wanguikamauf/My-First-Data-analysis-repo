@@ -9,6 +9,7 @@ The objectives of this project was to analyze trends in sales and profits across
 The primary source of the data was Github.
 The secondary source of the data was Microsoft Tech Community.
 The link used to access the data is 
+
 ---
 # DATA CLEANING AND TRANSFORMATION
 The data was cleaned and transformed using Microsoft Excel tools. 

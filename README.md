@@ -24,11 +24,13 @@ Low to medium discounts helped increase profits.
 Enterprise is the worst perfoming Segment recording losses.
 High and Medium discounts by Enterprises lead to losses.
 Increased sales led to increased profits.
+Enterprises sales were less than the cost of goods sold.
 
 ---
 # RECOMENDATIONS 
 A review of the discount policies by enterprises to lower and none bands for most of the products to mitigate the losses arising from high and medium discounts.
+Enterprises should also review their prices to avoid making sales for less than the cost of goods sold which is leading to losses.
 An increase in the manufacturing prices of Carreta and Montana which could increase the quality of goods hence increasing sales and profits.
 Increase in activity leading to sales such as marketing could lead to a increase in profits.
 Optimization of manufacturing cost could lead to increased to increased profits as seen in the case of Paseo.
-More business activity from the government will lead to more profits.
+More business activity from the government will lead to more profits as they are the highest profit making segment.

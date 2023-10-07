@@ -32,5 +32,5 @@ A review of the discount policies by enterprises to lower and none bands for mos
 Enterprises should also review their prices to avoid making sales for less than the cost of goods sold which is leading to losses.
 An increase in the manufacturing prices of Carreta and Montana which could increase the quality of goods hence increasing sales and profits.
 Increase in activity leading to sales such as marketing could lead to a increase in profits.
-Optimization of manufacturing cost could lead to increased to increased profits as seen in the case of Paseo.
+Optimization of manufacturing cost could lead to increased profits as seen in the case of Paseo.
 More business activity from the government will lead to more profits as they are the highest profit making segment.

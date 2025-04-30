@@ -25,6 +25,11 @@ Enterprise is the worst perfoming Segment recording losses.
 High and Medium discounts by Enterprises lead to losses.
 Increased sales led to increased profits.
 Enterprises sales were less than the cost of goods sold.
+![Financial data analysis](https://github.com/user-attachments/assets/ab60df72-5a80-40a0-ba5a-74d83864c546)
+![financial data analysis 2](https://github.com/user-attachments/assets/a9b5b1b4-d292-408c-b1a3-d3410a091ef9)
+![financial data analysis 3](https://github.com/user-attachments/assets/e16535de-dfee-4252-8521-0872fe313b82)
+![financial data analysis 4](https://github.com/user-attachments/assets/3039267c-c6cc-48d3-bef4-8edd09012da7)
+
 
 ---
 # RECOMENDATIONS 
